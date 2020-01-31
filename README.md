@@ -1,2 +1,0 @@
-# KowalBOT project
- 
